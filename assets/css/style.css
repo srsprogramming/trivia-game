@@ -1,0 +1,37 @@
+body {
+  background-image: url(../images/oblivion.jpeg);
+}
+
+#maincont {
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+  text-align: center;
+  background-image: url(../images/parchment2.jpeg);
+  font-family: fantasy;
+  color: black;
+}
+
+h1 {
+  background-color: brown;
+  color: tan;
+}
+
+#results {
+  background-color: brown;
+  width: 10%;
+  color: tan;
+  margin: auto;
+  }
+
+#submit{
+  background-color: brown;
+  width: 10%;
+  color: tan;
+  margin: auto;
+}
+
+ul {
+  margin: auto;
+  padding: 5px 0px 5px 0px
+}
